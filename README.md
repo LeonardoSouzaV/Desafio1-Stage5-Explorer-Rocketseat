@@ -23,21 +23,21 @@
 
 This project was developed with the following technologies:
 
-- HTML and CSS
-- JavaScript
-- Figma
+- HTML and CSS;
+- JavaScript;
+- Figma;
 
 ## 💻 Project
 
 Fortune Cookie was developed to study and apply everything learned in the course during level 5 with a main focus on JavaScript. Among the most common themes are:
 
-- HTML data structure
-- Animations with CSS
-- Functions in Javascript
-- DOM manipulation
-- JS Math() library
-- *callback* functions
-- Arrays
+- HTML data structure;
+- Animations with CSS;
+- Functions in Javascript;
+- DOM manipulation;
+- JS Math() library;
+- *callback* functions;
+- Arrays;
 
 ## 🗒️ License
 
