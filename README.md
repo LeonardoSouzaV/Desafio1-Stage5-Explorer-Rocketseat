@@ -1,6 +1,6 @@
 <h1 align="center"> Fortune Cookie </h1>
 
-<p align="center">Challenge made by Rocketseat's team of instructors for the EXPLORER course, for a better understanding of JavaScript <br/>
+<p align="center">Challenge made by Rocketseat's team of instructors for the EXPLORER, for a better understanding of JavaScript <br/>
 
 
 <p align="center">
