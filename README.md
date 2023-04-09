@@ -45,5 +45,5 @@ This project is licensed under the MIT license.
 
 ---
 
-Made with ♥ by Rocketseat 👋 [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Made with ♥ by Rocketseat 👋 [Participe da nossa comunidade (pt-BR)!](https://discord.gg/rocketseat)
 # Desafio1-Stage5-Explorer-Rocketseat
